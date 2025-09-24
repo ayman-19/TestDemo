@@ -43,4 +43,4 @@ jobs:
         context: .
         file: ./TestDemo/Dockerfile
         push: true
-        tags: ayman20030506/app:latest
+        tags: ayman20030506/testdemo:latest
